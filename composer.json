@@ -1,9 +1,9 @@
 {
-  "name": "iamhimansu/yii2-hdatafilter",
+  "name": "iamhimansu/yii2-datafilter",
   "description": "Yii2 dataprovider with advanced filters",
   "version": "1.0.0",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/iamhimansu/yii2-hdatafilter",
+  "homepage": "https://github.com/iamhimansu/yii2-datafilter",
   "type": "yii2-extension",
   "keywords": [
     "yii2",
@@ -20,7 +20,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "iamhimansu\\hdatafilter\\": "src"
+      "iamhimansu\\datafilter\\": "src"
     }
   },
   "extra": {
